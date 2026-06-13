@@ -2,7 +2,7 @@
   <img src="https://github.com/Alex-Escritor.png" align="right" width="250" alt="KaelisDev" />
 </a><br>hey, i'm Kaelis ✦
 
-«developer, writer & creator»
+> *`«developer, writer & creator»`*
 
 <br><p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A78BFA&background=0D1117&vCenter=true&width=500&lines=>+initialize+KaelisDev;>+crafting+discord+bots...;>+writing+stories+and+worlds...;>+building+MoonLight...;>+system+status:+online!" alt="Typing SVG" />
@@ -10,21 +10,21 @@
 
 <br>current focus
 
-> *› building MoonLight and advanced Discord systems*
+> › building MoonLight and advanced Discord systems
 › creating immersive stories & characters
 › designing modular bot architectures
 › experimenting with AI-powered features
 
 <br>currently learning
 
-› advanced discord ecosystems
+> › advanced discord ecosystems
 › scalable TypeScript architectures
 › AI agents & LLM integrations
 › modern web technologies
 
 <br>workspace
 
-› os: Windows / Linux
+> › os: Windows / Linux
 › editor: VS Code
 › language: Spanish & English
 › coffee level: critical
