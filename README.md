@@ -57,8 +57,6 @@
   <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer"/>
-
 ## projects
 
 🌙 MoonLight
