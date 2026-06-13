@@ -1,4 +1,4 @@
-<a href="https://github.com/KaelisDev">
+<a href="https://github.com/Alex-Escritor">
   <img src="https://github.com/Alex-Escritor.png" align="right" width="250" alt="KaelisDev" />
 </a><br>hey, i'm Kaelis ✦
 
@@ -10,7 +10,7 @@
 
 <br>current focus
 
-› building MoonLight and advanced Discord systems
+> *› building MoonLight and advanced Discord systems*
 › creating immersive stories & characters
 › designing modular bot architectures
 › experimenting with AI-powered features
