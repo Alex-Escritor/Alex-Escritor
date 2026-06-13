@@ -29,7 +29,7 @@
 › language: Spanish & English
 › coffee level: critical
 
-<br>---
+<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 technologies & tools
 
@@ -55,9 +55,9 @@ languages
   <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p><br>---
+</p><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-projects
+## projects
 
 🌙 MoonLight
 A next-generation Discord bot focused on AI, roleplay systems, utilities, moderation, music and community features.
@@ -65,9 +65,9 @@ A next-generation Discord bot focused on AI, roleplay systems, utilities, modera
 ⚙️ Open Source
 Building tools, utilities and systems for Discord communities.
 
-<br>---
+<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-github stats
+## github stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KaelisDev&theme=tokyonight&hide_border=true&background=0D1117" />
