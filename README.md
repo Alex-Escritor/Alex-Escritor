@@ -33,7 +33,7 @@
 
 # technologies & tools
 
-</p>*`languages`*
+</p> *`languages`*
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -41,14 +41,14 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>*`databases`*
+</p> *`databases`*
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>*`tools`*
+</p> *`tools`*
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -70,7 +70,7 @@ Building tools, utilities and systems for Discord communities.
 ## github stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaelisDev&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=Alex-Escritor&theme=tokyonight&hide_border=true&background=0D1117" />
 </p><p align="center">
   <i>"Every line of code tells a story."</i>
 </p>
